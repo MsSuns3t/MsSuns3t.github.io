@@ -6,19 +6,19 @@ Personal website for portfolio and introductory usage, will contain both an opti
 
 ## 💡 Overview
 
-SkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidi
+tbd
 
 ## ✨ Features
 
-SkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidi
+tbd
 
 ## 👨‍💻 Tech stack
 
-SkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidi
+tbd
 
 ## 🔗 Sources/Other resources
 
-SkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidiSkibidi.com
+tbd.com
 
 ## 📜 License
 
